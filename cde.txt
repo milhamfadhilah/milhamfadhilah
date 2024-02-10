@@ -2,5 +2,6 @@ DAFTAR BELANJA :
   1. sEPATU
   2. HELM
   3. YUNG
-  4. gembok
+  4. sendal
   5. konci
+  6. tas
