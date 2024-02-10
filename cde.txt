@@ -2,3 +2,5 @@ DAFTAR BELANJA :
   1. sEPATU
   2. HELM
   3. YUNG
+  4. gembok
+  5. konci
